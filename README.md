@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I’m @WinterWolf365
-- 🌱 I’m currently learning rust and blender
-- 👀 I’m interested in Game and Web Development
-- 📫 How to reach me WinterWolf365#9504 on discord
-- ⚡ Fun fact: I'm 15 years old
+- 🌱 I’m currently learning rust
+- 👀 I’m interested in Data and Web Development
+- 📫 How to reach me WinterWolf365 on discord
+- ⚡ Fun fact: I'm 17 years old
