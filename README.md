@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 - 👋 Hi, I’m @WinterWolf365
 - 🌱 I’m currently learning rust
-- 👀 I’m interested in Data and Web Development
+- 👀 I’m interested in Software Development
 - 📫 How to reach me WinterWolf365 on discord
-- ⚡ Fun fact: I'm 17 years old
+- ⚡ Fun fact: I'm 18 years old
